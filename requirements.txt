@@ -1,1 +1,6 @@
-mongodb+srv://mongomongo346:j5Qq4bxawoUG5h57@documentlist.cr27r.mongodb.net/
+face_recognition==1.3.0
+opencv-python==4.8.0.74
+numpy==1.24.3
+Flask==2.3.2
+Flask-Cors==3.0.10
+Pillow==10.0.0
